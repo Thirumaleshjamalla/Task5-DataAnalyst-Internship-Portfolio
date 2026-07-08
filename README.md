@@ -1,6 +1,6 @@
- Data Analyst Internship Portfolio
+# 📊 Data Analyst Internship Portfolio
 
- About Me
+## 👋 About Me
 
 Hello! I'm **Thirumalesh Jamalla**, an aspiring Data Analyst passionate about learning new technologies and solving real-world problems through data.
 
@@ -8,7 +8,7 @@ This repository showcases my complete internship journey, highlighting the tasks
 
 ---
 
-#Internship Objective
+# 🎯 Internship Objective
 
 The primary objective of this internship was to gain practical experience in data analytics by working on real-world tasks. Each task focused on improving technical knowledge, problem-solving abilities, documentation skills, and professional presentation.
 
